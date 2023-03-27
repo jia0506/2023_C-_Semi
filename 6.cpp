@@ -19,4 +19,6 @@ int main() {
 	}
 	cout << H << " " << M;
 	return 0;
+	
+	// ㅋㅋ 나 정준범
 }
